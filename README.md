@@ -1,1 +1,1 @@
-Projeto para pedir sua amada/o em namoro.
+Projeto para pedir sua/seu amada/o em namoro.

@@ -75,7 +75,7 @@ h1, h2, h3{
 }
 
 img{
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .tela:not(.visivel){
